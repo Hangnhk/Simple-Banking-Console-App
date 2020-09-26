@@ -1,0 +1,14 @@
+﻿First Name:Hang
+Last Name:Nguyen
+Address:288 huue
+Phone:32893292
+Email:jokerkeke@gmail.com
+Account Number:1474893
+Balance:$91800
+
+Last 5 transactions
+21/09/2020| Withdraw $100
+21/09/2020| Deposit $900
+21/09/2020| Withdraw $9,000
+21/09/2020| Deposit $100,000
+$0

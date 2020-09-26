@@ -1,0 +1,7 @@
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\obj\Debug\Simple Banking System.csprojResolveAssemblyReference.cache
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\obj\Debug\Simple Banking System.csproj.CoreCompileInputs.cache
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\bin\Debug\Simple Banking System.exe.config
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\bin\Debug\Simple Banking System.exe
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\bin\Debug\Simple Banking System.pdb
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\obj\Debug\Simple Banking System.exe
+C:\Users\13665132\source\repos\Simple Banking System\Simple Banking System\obj\Debug\Simple Banking System.pdb

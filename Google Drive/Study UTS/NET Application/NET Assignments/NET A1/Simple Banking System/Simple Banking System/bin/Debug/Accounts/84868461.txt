@@ -1,0 +1,14 @@
+﻿First Name:Hailey
+Last Name:Mhiue
+Address:77 Hia
+Phone:838295
+Email:jokerkeke@gmail.com
+Account Number:84868461
+Balance:$50
+
+Last 5 transactions
+25/09/2020| Withdraw $50
+25/09/2020| Deposit $100
+$0
+$0
+$0
